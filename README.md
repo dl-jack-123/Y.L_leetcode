@@ -13,7 +13,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |4|||||
 |5|||||
 |6|||||
-|7|||||
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python](./code/7.py)|easy|兩種解法:<br>	1.字串<br>	2.餘數|
 |8|||||
 |9|||||
 |10|||||
