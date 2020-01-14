@@ -15,11 +15,11 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 |6|||||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python](./code/7.py)|easy|兩種解法:<br>	1.字串<br>	2.餘數|
 |8|||||
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](./code/9.py)|||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](./code/9.py)|easy||
 |10|||||
 |11|||||
 |12|||||
-|13|||||
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[python](./code/13.py)|easy|space : O(n) <br>Time : O(n)|
 |14|||||
 |15|||||
 |16|||||
